@@ -1,3 +1,9 @@
 Welcome to my first Project
 
-This is for git learnings
+<html>
+<head>
+</head>
+<body>
+Insurance Application setup...
+</body>
+</html>
